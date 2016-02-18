@@ -1,0 +1,71 @@
+{
+  "_args": [
+    [
+      "waveform.js@^1.0.0",
+      "/Users/Robert/Sites/minor/web-apps-from-scratch/week_3"
+    ]
+  ],
+  "_from": "waveform.js@>=1.0.0 <2.0.0",
+  "_id": "waveform.js@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/waveform.js",
+  "_npmUser": {
+    "email": "dmitri.voronianski@gmail.com",
+    "name": "dmitri"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "waveform.js",
+    "raw": "waveform.js@^1.0.0",
+    "rawSpec": "^1.0.0",
+    "scope": null,
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/waveform.js/-/waveform.js-1.0.0.tgz",
+  "_shasum": "e6eed52fe8b6b3717a8d77fe698392fa6ccc8761",
+  "_shrinkwrap": null,
+  "_spec": "waveform.js@^1.0.0",
+  "_where": "/Users/Robert/Sites/minor/web-apps-from-scratch/week_3",
+  "author": {
+    "email": "dmitri.voronianski@gmail.com",
+    "name": "Dmitri Voronianski"
+  },
+  "dependencies": {},
+  "description": "Waveform.js makes drawing SoundCloud waveforms simple and lets you style and color them the way you want it.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e6eed52fe8b6b3717a8d77fe698392fa6ccc8761",
+    "tarball": "http://registry.npmjs.org/waveform.js/-/waveform.js-1.0.0.tgz"
+  },
+  "gitHead": "0b0eb3855a726e16bdc8b692b9c38eef819e175f",
+  "keywords": [
+    "browser",
+    "javascript",
+    "soundcloud",
+    "umd",
+    "waveform",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "main": "waveform-umd.js",
+  "maintainers": [
+    {
+      "name": "dmitri",
+      "email": "dmitri.voronianski@gmail.com"
+    }
+  ],
+  "name": "waveform.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
